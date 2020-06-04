@@ -3,3 +3,5 @@
 ################################################################################
 
 /BlazorControls/BlazorDemo/bin/Debug/netstandard2.1
+/BlazorControls/BlazorDemo/obj
+/BlazorControls/.vs/BlazorControls
