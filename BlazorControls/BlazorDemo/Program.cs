@@ -22,4 +22,5 @@ namespace BlazorDemo
             await builder.Build().RunAsync();
         }
     }
+    // iss101 comment added
 }
